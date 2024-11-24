@@ -6,7 +6,7 @@ function salarioHorasExtras(horasTrabajadas: number, horasExtras?: number){
     if(horasTrabajadas >= 40){
         const salario: number = tarifa * horasTrabajadas
         const nuevaTarifa: number =  tarifa * 0.5 + tarifa
-        const salarioExtra: number = nuevaTarifa * horasExtras
+        const salarioExtra: number = nuevaTarifa * (horasExtras ?? 0)
         const total = salario + salarioExtra
         return `Su salario este mes es de ${total} con un valor en horas extras de ${salarioExtra}`
     }else{
