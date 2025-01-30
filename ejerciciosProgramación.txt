@@ -1,0 +1,761 @@
+
+✔️✅4. Mostrar cuantos euros son una cantidad dada por teclado en pesos 
+✔️✅5. Mostrar el nuevo salario de un empleado si obtuvo un incremento del 8 % sobre el salario
+✔️✅6. Convertir una distancia en metros a kilómetros
+✔️✅7. Dados dos números calcula la suma, la resta, la multiplicación y división
+✔️✅8. Mostrar el área de un cuadrado
+✔️✅9. Mostrar el área de un triángulo
+✔️✅10. Dada una cantidad de billetes de 5, 10 y 20mil, mostrar la cantidad total de dinero que se tiene
+✔️✅11. Determinar el costo que se debe pagar por una llamada de 30 minutos si los primeros 10 minutos se cobra a 100 pesos y el resto a 150 pesos
+13. Se desea calcular la distancia recorrida(m) por un móvil que tiene velocidad constante, durante un tiempo.
+✔️✅14. Elaborar un programa que solicite a un postulante, el número de respuestas correctas, incorrectas y en blanco y muestre su puntaje final, considerando que por cada respuesta correcta obtendrá 10 puntos, respuestas incorrectas obtendrán - 1, y respuestas en blanco tendrá 0.
+✔️✅15. Determinar si un número es positivo o negativo
+✔️✅16. Dada las horas trabajadas de una persona y el valor por hora.Calcular su salario e imprimirlo.Si su salario es menor a 500.000 pesos debe sacar un mensaje que diga “Gana menos del mínimo”
+✔️✅18. A un trabajador le pagan según sus horas trabajadas y la tarifa está a un valor por hora.Si la cantidad de horas trabajadas es mayor a 40 horas, la tarifa por hora se incrementa en un 50 % para las horas extras.Calcular el salario del trabajador dadas las horas trabajadas y la tarifa.
+✔️✅19. Determinar si un alumno aprueba o reprueba un curso, sabiendo que aprobara si su promedio de tres calificaciones es mayor o igual a 3, 5 y reprueba en caso contrario.
+✔️✅20. En un almacén se hace un 20 % de descuento a los clientes cuya compra supere los $1000.Cuál sería la cantidad que pagara una persona por su compra ?
+✔️✅21. Realizar un programa que lea 2 números y los imprima en orden ascendente
+✔️✅22. Una persona enferma, que pesa 70kg, se encuentra en reposo y desea saber cuántas calorías consume su cuerpo durante todo el tiempo que realice una misma actividad.Las actividades que tiene permitido realizar son únicamente dormir o estar sentado en reposo.Los datos que se tienen son: que estar dormido consume 1.08 calorías por minuto y estar sentado en reposo consume 1.66 calorías por minuto
+✔️✅23. Hacer un algoritmo que imprima el nombre de un artículo, clave, precio original y y su precio con descuento.El descuento lo hace con base a la clave, si la clave es 01 el descuento es del 10 % y si la clave es 02 el descuento es del 20 % (solo existen 2 claves)
+✔️✅24. Hacer un algoritmo que calcule el total a pagar por la compra de camisas.Si se compran 3 camisas o más se aplica un descuento del 20 % sobre el total de la compra y si son menos de 3 camisas un descuento del 10 %
+25. Una empresa quiere hacer una compra de varias piezas de la misma clase de refacciones.La empresa, dependiendo del monto total de la compra, decidirá qué hacer para pagar al fabricante.
+    a. - Si el monto total de la compra no excede de $500.000 la empresa tendrá capacidad de invertir de su propio dinero un 70 % y el restante 30 % lo pagará solicitando crédito al fabricante.
+    b. - El fabricante cobra por concepto de intereses un 20 % sobre la cantidad que se le pague a crédito.
+✔️✅26. Imprimir todos los números IMPARES desde 1 hasta 300.
+✔️✅27. Imprimir los valores comprendidos entre el 460 y 500 en orden inverso.
+✔️✅29. Un algoritmo que muestre los pares que hay entre 1 y N
+30. Un algoritmo que permita ingresar N datos correspondientes al genero de N, numero de personas y determine el porcentaje de hombres y mujeres que hay
+✔️✅31. Realizar un algoritmo que permita pedir 10 números enteros y determine e imprima cuantos son pares, impares, positivos y negativos.
+✔️✅32. Calcular y visualizar la suma de los números comprendidos entre 20 y N(ambos incluidos)
+✔️✅33. Elaborar un programa que solicite la edad de 10 personas y muestre cuantos son mayores y menores de edad
+34. Realizar un programa que solicite 2 números enteros y muestre el producto por el método de sumas sucesivas
+✔️✅35. Elaborar un programa que muestre 100 números enteros a partir del 1 excepto los pares
+✔️✅36. Se solicita al usuario que ingrese tres números enteros cualesquiera.En base a estos números, mostrar por pantalla cual es el mayor de todos.
+✔️✅37. Realizar un algoritmo que realice la tabla de multiplicar del 1 al 10 de un numero ingresado
+✔️✅38. A un trabajador le pagan según sus horas trabajadas y la tarifa está a un valor por hora.Si la cantidad de horas trabajadas es mayor a 40 horas, la tarifa por hora se incrementa en un 50 % para las horas extras.Calcular el salario del trabajador dadas las horas trabajadas y la tarifa.
+✔️✅39. A un trabajador le descuentan de su sueldo el 10 % si su sueldo es menor o igual a 1.000.000, por encima de 1.000.000 y hasta 2.000.000 el 5 % del adicional, y por encima de 2.000.000 el 3 % del adicional.Calcular el descuento y sueldo neto que recibe el trabajador dado su sueldo.
+✔️✅40. Dado un monto calcular el descuento considerando que por encima de 1.000.000 el descuento es el 10 % y por debajo de 1.000.000 el descuento es el 2 %.
+✔️✅41. Dado un tiempo en minutos, calcular los días, horas y minutos que le corresponden
+42. Se trata de escribir el algoritmo que permita emitir la factura correspondiente a una compra de un artículo determinado, del que se adquieren una o varias unidades.El IVA es del 19 % y si el precio bruto(precio venta más IVA) es mayor de $130000 se debe realizar un descuento del 5 %.
+43. Al cerrar un expendio de naranjas, 15 clientes que aún no han pagado recibirán un 15 % de descuento si compran más de 10 kilos.Determinar cuánto pagará cada cliente y cuanto recibirá la tienda por esas compras.
+44. Leer por cada alumno de análisis y desarrollo de sistema de información su código, nombre y su
+calificación en cada una de las 3 pruebas evaluativas.Al final que escriba el nombre y promedio del
+alumno que obtuvo mayor promedio.Suponga que los alumnos tienen diferentes promedios.
+45. Leer los 2.500.000 votos otorgados a los n candidatos al concejo e imprimir el número del candidato ganador y su cantidad de votos, tener en cuenta que solo ganan los 20 primeros candidatos.
+46. Suponga que tiene usted una tienda y desea registrar las ventas en su computadora.Diseñe un
+algoritmo que lea por cada cliente, el monto total de su compra.Al final del día que escriba el
+monto total de la venta por cliente, calcule e imprima el IVA, lea la cantidad con que paga el cliente,
+    calcule e imprima el cambio y al final la cantidad total de ventas y el número de clientes atendidos.
+47. Se ofrece un trabajo que pague un centavo en la primera semana, pero dobla su salario cada
+    semana, es decir $ .0, 1 la primera semana; $ .02 la segunda semana; $ 0.4 la tercera semana; etc.Hasta la culminación del contrato.Diseñar un pseudocódigo que determine(y escriba) el
+    salario por cada semana y el salario pagado hasta la fecha por espacio de 50 semanas.
+48. Diseñe un pseudocódigo que calcule e imprima el pago de 102 trabajadores que laboran en SISE
+    LIMITADA.Los datos que se leerán son los siguientes:
+    a.Las horas trabajadas
+    b.El sueldo por hora
+    c.El tipo de trabajador(1 - Digitador, 2 - Diseñador)
+    d.Para pagar los pagos considerar lo siguiente:
+    e.Los digitadores pagan 10 % de impuesto
+    f.Los diseñadores pagan 10 % de impuesto
+    g.Los trabajadores(Digitadores y Diseñadores) que reciban un pago menor de 100.000 pesos no pagan impuesto.
+    h.Al final se deberá imprimir el total a pagar a los digitadores y a los diseñadores.
+49. Diseñe un pseudocódigo que imprima la fecha en palabras(formato largo) a partir de la
+    representación siguiente: S, DD, MM, AA.
+    a.S = Dia de la semana, 1 al 7(1 = lunes; 2 = martes; etc...);
+    b.DD = Día del mes, 1 a 30 ó 31, según el mes.Fijar el mes de febrero con 28 días;
+    c.AA = Dos últimas cifras del años.
+50. Una pizzería, vende sus pizzas en tres tamaños:
+    a.Pequeña(10 pulg.De diámetro); mediana(12 pulg.De diámetro); y grandes(16 pulg.De
+    diámetro); Una pizza puede ser sencilla(con sólo salsa y carne), o con ingredientes extras,
+    tales como pepinillos, champiñones o cebollas.
+    b.Los propietarios desean desarrollar un programa que calcule el precio de venta de una
+pizza, dándole el tamaño y el número de ingredientes extras.El precio de venta será 1.5
+veces el costo total, que viene determinado por el área de la pizza, mas el numero de
+ingredientes.
+    c.En particular el costo total es calcula sumando:
+d.Un costo fijo de preparación
+e.Un costo base variable que es proporcional al tamaño de la pizza
+f.Un costo adicional por cada ingrediente extra.Por simplicidad se supone que cada
+ingrediente extra tiene el mismo costo por unidad de área.
+
+51. Un colegio desea imprimir el boletín de calificaciones para sus estudiantes.Cada estudiante tiene
+código, nombre e indicadores de logro.Los indicadores de logro son ingresados con números pero
+el sistema los debe convertir a letras según el siguiente criterio: si el numero está entre 0 y 10 se
+debe imprimir junto con los datos de código y nombre del indicador DEFICIENTE, entre 11 y 30
+INSUFICIENTE, entre 31 y 50 ACEPTABLE, entre 51 y 70 BUENO, entre 71 y 90 SOBRESALIENTE y
+más de 90 EXCELENTE.
+52. Calcular e imprimir la tabla de multiplicar de un número cualquiera.Imprimir el multiplicando, el
+multiplicador y el producto.
+53. Una persona debe realizar un muestreo con 50 personas para determinar el promedio de peso de
+los niños, jóvenes, adultos y viejos que existe en su zona habitacional.Se determina las categorías
+con base en la siguiente tabla:
+a.CATEGORIA EDAD
+b.Niños 0 - 12
+c.Jóvenes 13 - 29
+d.Adultos 30 - 59
+e.Viejos 60 en adelante
+✔️✅54. Solicitar nombre y fecha de nacimiento de una persona y devolver la edad.
+55. Escribe un algoritmo que lea por teclado una temperatura en grados Fahrenheit y la convierta a grados centígrados según la fórmula C = ((F - 32)5)/9.
+56. El dueño de una tienda compra un artículo a un precio determinado.Obtener el precio en que lo debe vender para obtener una utilidad del 30 %.
+57. Tres personas deciden invertir su dinero para fundar una empresa.Cada una de ellas invierte una
+cantidad distinta.Obtener el porcentaje que cada quien invierte con respecto a la cantidad total
+invertida.
+
+5. - Realice un Algoritmo que permita calcular y dar como salida el promedio de bateo(PB) de cada
+jugador perteneciente a un equipo de 40 jugadores, tomando en cuenta que se tienen los siguientes
+datos:
+* Nombre del Jugador
+    * Veces al Bate(VB)
+        * Hit Conectados(HIT)
+            * Extrabases Conectadas(EXT)
+                * Cantidad de Sacrificios(S)
+                    * Cantidad de Bases por Bolas Recibidas(BB)
+Nota: PB = BBC / VLB * 1000
+donde:
+BBC = HIT + EXT
+VLB = VB – S – BB
+6. - CANTV Posee dos tipos de clientes: Residencial y Empresarial, realice un algoritmo que permita
+procesar “n” cantidad de clientes teniendo como datos por C / U.de ellos: Código del Cliente, Tipo deCliente, Lectura Actual, Lectura Anterior; Calculando y dando como salida la cantidad de Impulsos
+consumidos y el neto a pagar por cada cliente.
+Los Impulsos se cobran a razón de:
+Residencial 25 Bs.
+    Empresarial 35 Bs.
+        Nota: Cant.De Imp = L.Actual – L.Anterior.
+7. - Una Ferretería vende dos tipos de Cables, Cable Tipo A(200 Bs.MT) y Cable Tipo B(300 Bs.MT
+        ); realice un algoritmo que teniendo como datos por cada cliente su nombre, tipo de cable a comprar
+y cantidad de metros requeridos, calcule y de cómo salida el nombre y el neto a pagar por cada
+cliente, tomando en cuenta que existe un grupo indeterminado de ellos y que la empresa da una
+rebaja del 10 % por cada compra que exceda de los 100 MT de cable de cualquier tipo
+8. - Se toman los Mismos datos del 7 con la diferencia que se da la rebaja del 10 % si se compran
+mas de 100 Mts de Cable tipo A y el 20 % si se compran mas de 100 Mts de Cable Tipo B.
+9. - Un Tecnológico, ofrece un curso “x” y desea realizar un algoritmo que permita determinar y dar
+como salida la cantidad de dinero recaudado por concepto del curso; teniendo en cuenta que se
+tiene por cada participante la siguiente información:
+* Cedula de Identidad
+    * Nombre del Participante
+        * Procedencia(At = Alumno del Tecnológico, Dt = Docente del Tecnológico, Pg = Publico en
+General).
+Tomando en cuenta que la procedencia se cobra de la siguiente tarifa:
+* At = 10.000 Bs.
+* Dt = 20.000 Bs.
+* Pg = 35.000 Bs.
+    Nota: El cupo para el curso no es limitado.
+10. - Una Empresa de Reproducción desea realizar un algoritmo que permita calcular y dar como
+salida el pago que tiene que hacer cada cliente por concepto de copias, tomando en cuenta que se
+tienen los siguientes datos:
+* Cod.de Cliente
+    * Tipo de Copia(Carta, Oficio, ExtraOficio)
+        * Cantidad de Copias
+            * Además el Algoritmo debe reportar lo siguiente:
+* Total de Copias tipo Carta y Tipo Oficio procesadas por la empresa.
+* Promedio de Ventas en Bs.
+* Cod.Del Cliente que cancelo mas dinero por el servicio.
+El Valor por tipo de Copia es:
+* Carta 0, 30 Bs.
+* Oficio 0, 40 Bs.
+* Extraoficio 0, 50 Bs.
+El Algoritmo debe funcionar para “n” cantidad de clientes.
+11. - Realice un Algoritmo que permita procesar a “n” cantidad de alumnos, tomando en cuenta que
+se tienen los siguientes datos:
+* Nombre del Alumno
+    * Especialidad(I, R, A, B, P, D, T)
+    * Turno(M, T, N)
+El Algoritmo debe reportar y dar como salida lo siguiente:
+* Cantidad de Relaciones Industriales(R)
+    * Cantidad de Alumnos de Informática(I) del Turno de la Noche.
+12. - Realice un Algoritmo que teniendo en cuenta los siguientes datos de entrada:
+* Cod.De Cliente
+    * Tipo de Cuenta(Ahorro, Corriente)
+        * Tipo de Actualización(Aporte, Retiro)
+            * Monto de la Transacción
+Calcule y de cómo salida lo siguiente:
+* Monto Total de Aporte en Ahorro
+    * Monto Total de Retiro en Corriente
+        * Promedio de Retiro en Ahorro.
+13. - Realice un Algoritmo que permita dar como salida la población de dos países(a y b), teniendo
+en cuenta para tal propósito lo siguiente:
+* En el Primer Año el País “a” tiene menos población que el país “b”
+* Las Tazas de crecimiento de los países “a” y “b” son de 6 % y 3 % anuales respectivamente.
+* Se debe dar como salidas las poblaciones desde el segundo año hasta que la población de “a”
+exceda a la población de “b”, además la cantidad de años que transcurrieron para que esto sucediera
+14. - Realice un algoritmo que permita calcular y dar como salida la temperatura media, mayor y
+menor ocurrida durante el transcurso de un día.15.- Data la Nota de Matemática, Estadística e Informática de un grupo de 25 alumnos, realice un
+algoritmo que permita calcular y dar como salida lo siguiente:
+* Promedio de Informática
+    * Cantidad de aprobados en matemática
+        * Nota mayor de estadística
+            * Nota menos de Informática y Nombre del Br.Que la Obtuvo.
+
+
+                ARREGLOS
+
+✔️✅1. Dado dos vectores A y B de 15 elementos cada uno, obtener un vector C donde la posición i se almacene la suma de A[i] + B[i].
+2. Dado dos vectores A y B de 15 elementos cada uno, obtener un vector C donde la posición i se
+almacene la suma de A[i] + B[i] y mostrar el mayor de los C[i].
+3. Dado una secuencia de número leídos y almacenados en un vector A mostrar dichos números en
+orden.
+✔️✅4. Dado una secuencia de número leídos y almacenados en un vector A y un número leído determinar si dicho número se encuentra o no en el vector.
+5. Leer una secuencia de 20 números y almacenar en un vector sus factoriales.
+✔️✅6. Leer 20 números y almacenarlos de manera ordenada en un vector.
+7. Dado dos matrices A y B obtener la suma.
+8. Dado una matriz determinar la posición(i, j) del mayor.
+9. Dado una matriz determinar la posición(i, j) del mayor y menor.
+10. Leer una secuencia de 20 números almacenarlos en un vector A[1..20] y mostrar la suma de los
+elementos que ocupan posiciones pares y el mayor de los que ocupan posiciones impares.
+11. Dada una matriz A[1..4][1..5] realiza la ordenación de la misma.
+12. Dada una matriz A[1..4][1..5] realiza el proceso de ordenar solo por filas.
+13. Dado un vector de números determina aquellos que sea primos.
+14. Leer una secuencia de números y mostrar la suma de los pares y el producto de los que son
+múltiplo de 5.
+15. Leer una secuencia de números y determinar el mayor de los pares leídos.
+16. Leer una secuencia de números y mostrar el mayor de los múltiplos de 5 leídos y el menor de los
+múltiplos de 3 leídos.
+17. Dado un vector de 5 enteros actualizar cada posición de dicho vector con un número leído.
+18. Leer una secuencia de 20 números almacenarlos en un vector y mostrar la posición donde se
+encuentra el mayor y el menor valor leído.
+
+
+TALLER ARREGLOS
+
+1. Queremos guardar los nombres y las edades de los alumnos de un curso.Realiza un
+programa que introduzca el nombre y la edad de cada alumno.El proceso de lectura de
+datos terminará cuando se introduzca como nombre un asterisco(*) Al finalizar se
+mostrará los siguientes datos:
+ Todos los alumnos mayores de edad.
+ Los alumnos mayores(los que tienen más edad)
+
+2. Queremos guardar la temperatura mínima y máxima de 5 días.realiza un programa que de
+la siguiente información:
+ La temperatura media de cada día
+ Los días con menos temperatura
+ Se lee una temperatura por teclado y se muestran los días cuya temperatura máxima
+coincide con ella.si no existe ningún día se muestra un mensaje de información.
+
+3. Un restaurante desea saber cuáles son las opiniones sobre un nuevo plato, esta encuesta
+se realizara a los empleados(15 personas) del restaurante a los cuales se les pide que
+indique por medio de un número del 1 al 10 su opinión siendo 1 la opinión más baja y 10
+la más alta.Elabore un algoritmo que pida a las 15 personas las opiniones y luego que
+presente el resultado.
+4. En una empresa de 1000 trabajadores, se hará un aumento al salario de acuerdo al tiempo
+de servicio, para este aumento se tomará en cuenta lo siguiente:
+Tiempo de servicio: de 1 a 5 años Aumento: $ 60.000
+Tiempo de servicio: de 5 a 10 años Aumento: $ 80.000
+Tiempo de servicio: de 10 a 20 años Aumento: $ 120.000
+Tiempo de servicio: de 20 años a más Aumento: $ 200.000
+Se desea obtener una lista del personal en orden creciente con respecto al sueldo
+modificado.
+5. Se tiene 9 marcas de jeans y se desea insertar 2 nuevas marcas en la posición 2 y 4.
+
+6. Un restaurante desea llevar el control de lo consumido en cada una de sus 50 mesas.La
+atención se realiza de la siguiente manera: al llegar gente al local se le asigna una mesa;
+por cada comensal se cobra el servicio de mesa y se agrega el monto correspondiente a
+cada pedido.Al retirarse del local, se le cobra el monto acumulado.Debe considerarse la
+situación en que podría no haber mesas libres.
+
+7. Determinar a través de una matriz el registro de los vehículos que ingresan a un
+parqueadero, con los respectivos datos, documento, nombre, placa, tipo de vehículo, hora
+de entrada, hora de salida, estos dos últimos datos se necesitan para hacer el cálculo de
+cuando dinero debe pagar el cliente dependiendo del tiempo de parqueo, teniendo en
+cuenta que el valor de la hora es de $2000 para carro y $800 para moto.Al final debe
+aparecer en pantalla, el documento del cliente, nombre, placa, tipo de vehículo, hora inicio,
+    hora final y su respectivo valor del tiempo.
+8. Por medio de una matriz registrar las ventas de un supermercado con sus respectivos
+datos, documento, nombre, nombre artículo, cantidad, valor unitario, al final debe mostrar
+cuanto es el valor total de cada cliente, y cuanto recibe la tienda al final del día.
+
+9. Realizar un algoritmo para generar las alertas de las posibles lesiones de los jugadores de
+futbol de un club deportivo, estos datos se determinan a través de la información personal
+del jugador y sus respectivos datos técnicos, como son número de partidos jugados,
+    minutos de partidos jugados, goles, amonestaciones, se determinan las alertas por medio
+de los siguientes datos:
+Menos de 7 días y 270 minutos jugados Próximo a lesionarse, debe descansar
+Menos de 15 días y 540 minutos jugadosEl jugador no puede jugar, posible lesión
+Que pida el documento y en pantalla muestre el nombre y mensaje.
+10. El dueño de un restaurante entrevista a cinco clientes de su negocio y les pide que
+califiquen de 1 a 10 los siguientes aspectos: (1 es pésimo y 10 es excelente o inmejorable).
+ Atención de parte de los empleados
+ Calidad de la comida
+ Justicia del precio(el precio que pagó le parece justo ?)
+ Ambiente(muebles cómodos ?, música adecuada ?, iluminación suficiente ?,
+        decoración, etc.)
+Escriba un algoritmo que pida las calificaciones de los cinco clientes a cada uno de estos
+aspectos, y luego escriba el promedio obtenido en cada uno de ellos.La lista debe
+aparecer ordenada del aspecto mejor calificado al peor calificado.
+
+
+
+Ejercicio #1
+Realizar una pequeña aplicación en JAVA, donde salude al usuario y pregunte su edad.
+- Si el usuario es menor de edad, se debe mostrar en pantalla que recibe un auxilio de $ 800.000
+    - Si el usuario es mayor de edad, se debe mostrar en pantalla que paga un impuesto de $ 200.000
+
+    Ejercicio #2
+    Realizar una pequeña aplicación en JAVA, donde se solicite al usuario un numero de 3 dígitos y se indique en pantalla si el
+    número es par o impar.
+    Ingresar número de tres dígitos: 123
+    El numero ingresado es: Impar.
+
+    Ejercicio #4
+    Realizar una pequeña aplicación en JAVA, donde se solicite al usuario tres números enteros y se indique en pantalla cuál
+    de los tres números es mayo y cuál es el menor.
+    Ingresar primer número: 2
+    Ingresar segundo número: 20
+    Ingresar tercer número: 5
+    El mayor número es: 20
+    El menor número es: 5
+
+
+    Ejercicio #5
+Realizar una pequeña aplicación en JAVA, donde se solicite al usuario tres números enteros y se indique en pantalla si los
+números se ingresaron en orden ascendente.
+Ingresar primer número: 3
+Ingresar segundo número: 7
+Ingresar tercer número: 9
+Los números se ingresaron en Orden Ascendente.
+
+
+Ejercicio #6
+Realizar una aplicación en JAVA, que pida al usuario ingresar un numero de 6 dígitos; después muestre en pantalla un
+menú donde las opciones sea el digito a mostrar.Ejemplo:
+Ingresar un número: 912837
+// ------------------------------------------------------------------- //
+Menú:
+1. Primer Digito. 2. Segundo Digito. 3. Tercer Digito.
+4. Cuarto Digito. 5. Quinto Digito. 6. Sexto Digito.
+// ------------------------------------------------------------------- //
+Ingrese una opción: 5
+El Quinto Digito es: 1
+Nota: Para obtener el ultimo digito usamos la operación numero % 10(912837 % 10 -> 7)
+Para obtener los dígitos antes del último usamos la expresión numero / 10(912837 / 10 -> 91283)
+
+
+Ejercicio #7
+Realizar una aplicación en JAVA, que pida al usuario ingresar un número(Máximo 10 dígitos e inferior a los dos mil
+millones); Después se debe mostrar en pantalla el numero con formato de moneda.Ejemplo:
+Ingresar un número: 1150580038
+// ---------- FORMATO DE MONEDA ----------- //
+Moneda: $ 1.150.580.038
+Nota: El algoritmo debe poder imprimir el formato de moneda de los siguientes números:
+$ 1.000.000.000 $ 1.001.001.001 $ 10.000
+
+Ejercicio #8
+Hacer una pequeña aplicación en JAVA, donde se solicite al usuario un número(máximo 9 dígitos) y se muestre en pantalla
+el numero representado en palabras.
+    Ejemplo:
+Ingrese un número: 2503
+El texto del número es: DOS MIL QUINIENTOS TRES
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Ejercicio #9
+Realizar una aplicación en JAVA, que solicite al usuario ingresar un número que represente una fecha(ddmmaaaa), la
+aplicación debe mostrar en pantalla la fecha en forma de texto.
+    Ejemplo:
+Ingrese un número: 12022020
+El texto del número es: DOCE DE FEBRERO DEL DOS MIL VEINTE
+
+Ejercicio #10
+Realizar una aplicación en JAVA, que solicite al usuario ingresar cinco notas de asignaturas definidas, posteriormente se
+debe mostrar en pantalla:
+- Asignatura con mayor nota.
+- Asignatura con menor nota.
+- Promedio de notas.
+- En el caso de que el promedio de notas de inferior a 3, se debe indicar en pantalla la nota que debió obtener en
+la asignatura con menor nota para alcanzar el promedio de 3.
+Ejemplo:
+Nota de Matemáticas: 1, 0
+Nota de Español: 2, 2
+Nota de Ingles: 3, 1
+Nota de Ciencias Naturales: 2, 0
+Nota de Deportes: 4, 8
+Informe:
+-> Asignatura con mejor nota: Deportes
+    -> Asignatura con menor nota: Ciencias Naturales
+        -> Promedio de notas: 2, 62
+            -> Debió obtener una nota de 3, 9 en Ciencias Naturales para aprobar el periodo.
+
+
+            1.Realizar un algoritmo para un almacén de alquiler de ropa ejemplo: traje para matrimonio, traje para primera
+comunión etc.Se necesita llevar registro y control de los alquileres de los trajes y vestidos, teniendo en cuenta
+que debe tener un anticipo X para poder separar la prenda, y pagar la totalidad cuando se vaya a llevar la
+prenda, tiene un tiempo estimado de 3 días después de la entrega de la prenda, después tendrá por cada día
+una multa de $20.000 pesos, se necesita saber cuánto recibe el almacén por el dinero recibo del alquiler de
+todos los clientes, cuanto han recibido de dinero por las multas de todos los clientes, a su vez se necesita saber
+cuántas prendas están alquiladas y cuantas en sitio.
+2.Realizar un algoritmo para un lavautos donde permita llevar el registro y control de los vehículos que llegan al
+sitio para el servicio de lavado, en el establecimiento tienen diferentes tipos de servicios Servicio A, B, C, cada uno
+tiene un precio diferente, definidos por ustedes, el lavautos tiene una característica principal, después de 3
+lavadas de servicio B, el 4 servicio C seria gratuito, se necesita saber cuánto dinero recibe el lavautos por todos
+los clientes, cuanto por cada servicio A.B.C y cuantos servicios dio gratuitos Y el valor que dejo de recibir.
+3.Realizar un algoritmo para un estanquillo donde se necesita llevar el registro y control de los productos, se va
+a tener en cuenta 4 productos donde se necesita saber cuánto hay en inventario, cuantas cantidades y dinero se
+ha vendido por producto, a su vez se necesita saber cuánto se le debe a los 4 proveedores por las compras,
+    sabiendo que pueden tener facturas por pagar de 15 días y 30 días, si la factura es de 15 días se le hace un
+recargo al valor de la factura del 3 % y si es de 30 días se le hace recargo del 4 % a la factura, al final se debe saber cuánto dinero recibe el estanquillo por las ventas de los 4 productos, cuánto dinero por cada producto, cuantas
+cantidades por cada producto y cuánto dinero debe pagar por la facturas por pagar a cada proveedor y cuánto
+dinero de recargo por las facturas.
+
+1. Desarrollar un algoritmo para el control de la nómina de una empresa, teniendo en cuenta que no se conoce la
+cantidad de empleados que existen, cada empleado tiene derecho a horas extras ordinarias 1.25, horas extras nocturnas
+1.75, recargo nocturno 1.35, dominicales 1.75,auxilio de transporte $108.000 y también se debe generar el descuento
+del 4% cada uno de salud y pensión se debe generar la opción de tener la posibilidad de hacerle prestamos al empleado
+y descontárselos en el pago mensual de la nómina, se debe mostrar el pago quincenal.
+2.REALIZAR INVENTARIO DE 6 ARTICULOS, INGRESAR CANTIDADES Y RESTARLAS CUANDO SE VENDAN.
+EL ALGORITMO DEBE REGISTRAR LAS VENTAS Y TENER DESCUENTO SI EL CLIENTE ESTA REGISTRADO POR LA PAGINA
+DE LA PESQUERIA. REALIZAR INFORME DE INVENTARIO, DE LO QUE LLEVA EL CLIENTE CON DESCUENTO Y LO QUE
+RECIBE LA TIENDA AL FINAL.
+3.Tomando como base los resultados obtenidos en un laboratorio de análisis clínicos, un médico determina
+si una persona tiene anemia o no, lo cual depende de su nivel de hemoglobina en la sangre, de su edad y de
+su sexo. Si el nivel de hemoglobina que tiene una persona es menor que el rango que le corresponde, se
+determina su resultado como positivo y en caso contrario como negativo. La tabla en la que el medico se
+basa para obtener el resultado es la siguiente:
+EDAD NIVEL HEMOGLOBINA
+0 – 1 mes 13 – 26 g%
+> 1 y < = 6 meses 10 – 18 g%
+> 6 y < = 12 meses 11 – 15 g%
+> 1 y < = 5 años 11.5 – 15 g%
+> 5 y < = 10 años 12.6 – 15.5 g%
+> 10 y < = 15 años 13 – 15.5 g%
+
+
+1. En una empresa de 1000 trabajadores, se hará un aumento al salario de acuerdo al tiempo de servicio, para
+este aumento se tomará en cuenta lo siguiente: Tiempo de servicio: de 1 a 5 años Aumento: $ 60.000 Tiempo
+de servicio: de 5 a 10 años Aumento: $ 80.000 Tiempo de servicio: de 10 a 20 años Aumento: $ 120.000
+Tiempo de servicio: de 20 años a más Aumento: $ 200.000 Se desea obtener una lista del personal en orden
+creciente con respecto al sueldo modificado.
+2. Un restaurante desea saber cuáles son las opiniones sobre un nuevo plato, esta encuesta se realizara a los
+empleados(15 personas) del restaurante a los cuales se les pide que indique por medio de un número del 1 al
+10 su opinión siendo 1 la opinión más baja y 10 la más alta.Elabore un algoritmo que pida a las 15 personas
+las opiniones y luego que presente el resultado.
+3. Un restaurante desea llevar el control de lo consumido en cada una de sus 50 mesas.La atención se realiza
+de la siguiente manera: al llegar gente al local se le asigna una mesa; por cada comensal se cobra el servicio de
+mesa y se agrega el monto correspondiente a cada pedido.Al retirarse del local, se le cobra el monto
+acumulado.Debe considerarse la situación en que podría no haber mesas libres.
+
+
+EJERCICIOS CONDICIONALES
+EJERCICIO 1
+Leer números enteros positivos de teclado, hasta que el usuario ingrese el 0. Informar cuál fue el mayor número ingresado.
+
+
+Ejercicio 2
+Leer números enteros de teclado, hasta que el usuario ingrese el 0. Finalmente, mostrar la sumatoria de todos los números ingresados.
+
+
+Ejercicio 3
+Crear un programa que permita al usuario ingresar los montos de las compras de un cliente (se desconoce la cantidad de datos que cargará, la cual puede cambiar en cada ejecución), cortando el ingreso de datos cuando el usuario ingrese el monto 0.
+Si ingresa un monto negativo, no se debe procesar y se debe pedir que ingrese un nuevo monto. Al finalizar, informar el total a pagar teniendo que cuenta que, si las ventas superan el total de $1000, se le debe aplicar un 10% de descuento.
+
+Ejercicio 4
+Suponga que tiene usted una tienda y desea registrar las ventas en su computadora. Diseñe un algoritmo que lea por cada cliente, el monto total de su compra. Al final del día que escriba el monto total de la venta por cliente, calcule e imprima el IVA, lea la cantidad con que  paga el cliente, calcule e imprima el cambio y al final la cantidad total de ventas  y el número de clientes atendidos.
+
+
+EJERCICIOS BUCLES
+EJERCICIO 1
+Escribir un programa que permita al usuario ingresar 6 números enteros, que pueden ser positivos o negativos. Al finalizar, mostrar la sumatoria de los números negativos y el promedio de los positivos.
+
+
+Ejercicio 2
+Leer  por cada alumno de análisis y desarrollo de sistema de información su código, nombre y su calificación en cada una de las 3 pruebas evaluativas. Al final que escriba el nombre y promedio del alumno que obtuvo mayor promedio. Suponga que los alumnos tienen diferentes promedios.
+
+Ejercicio 3
+Escribir un programa que solicite por teclado 10 notas de alumnos y nos informe cuántos tienen notas mayores o iguales a 7 y cuántos menores.
+
+Ejercicio 4
+Se cuenta con la siguiente información:
+Las edades de 5 estudiantes del turno mañana.
+Las edades de 6 estudiantes del turno tarde.
+Las edades de 11 estudiantes del turno noche.
+Las edades de cada estudiante deben ingresarse por teclado.
+a) Obtener el promedio de las edades de cada turno (tres promedios)
+b) Imprimir dichos promedios (promedio de cada turno)
+c) Mostrar por pantalla un mensaje que indique cual de los tres turnos tiene un promedio de edades mayor.
+
+
+EJERCICIOS VECTORES
+1. En una empresa de 1000 trabajadores, se hará un aumento al salario de acuerdo al tiempo de servicio, para
+este aumento se tomará en cuenta lo siguiente: Tiempo de servicio: de 1 a 5 años Aumento: $ 60.000 Tiempo
+de servicio: de 5 a 10 años Aumento: $ 80.000 Tiempo de servicio: de 10 a 20 años Aumento: $ 120.000
+Tiempo de servicio: de 20 años a más Aumento: $ 200.000 Se desea obtener una lista del personal en orden
+creciente con respecto al sueldo modificado.
+2. Un restaurante desea saber cuáles son las opiniones sobre un nuevo plato, esta encuesta se realizara a los
+empleados (15 personas) del restaurante a los cuales se les pide que indique por medio de un número del 1 al
+10 su opinión siendo 1 la opinión más baja y 10 la más alta. Elabore un algoritmo que pida a las 15 personas
+las opiniones y luego que presente el resultado.
+3. Un restaurante desea llevar el control de lo consumido en cada una de sus 50 mesas. La atención se realiza
+de la siguiente manera: al llegar gente al local se le asigna una mesa; por cada comensal se cobra el servicio de
+mesa y se agrega el monto correspondiente a cada pedido. Al retirarse del local, se le cobra el monto
+acumulado. Debe considerarse la situación en que podría no haber mesas libres.
+4. Realizar un algoritmo inventado donde utilice vectores para desarrollar la solución.
+
+
+Ejercicio #1
+Realizar una aplicación que le permita a un docente de una institución educativa, el promedio de la nota obtenida por un
+estudiante en la materia. La aplicación debe solicitarle al usuario ingresar la cantidad de notas y posteriormente solicitarle
+ingresar cada nota. Al final debe mostrar el promedio obtenido por el estudiante.
+Ejemplo:
+
+--> Ingrese cantidad de notas: 3
+--> Nota 1 = 2.0
+--> Nota 2 = 3.5
+--> Nota 3 = 4.5
+--> Promedio de nota obtenida = 3.33
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #2
+Realizar una aplicación que le permita a los estudiantes calcular el promedio ponderado de la nota obtenida en el semestre
+(Tener en cuenta que el promedio ponderado es diferente al promedio de la Actividad 1). La aplicación debe solicitarle al
+estudiante una cantidad de materias, posteriormente debe solicitar la nota de cada materia y la cantidad de créditos de
+la materia. Al final la aplicación debe mostrar el total de créditos vistos en el semestre y el promedio del semestre.
+Ejemplo:
+
+--> Ingrese cantidad de Materias: 3
+--> Nota Materia 1 = 2.0
+--> Creditos Materia 1 = 2
+--> Nota Materia 2 = 4.0
+--> Creditos Materia 2 = 3
+--> Nota Materia 3 = 2.0
+--> Creditos Materia 3 = 3
+--> Total de creditos = 8
+--> Promedio del semestre = 2.75
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #3
+Realizar una aplicación que solicite al usuario ingresar un numero denominado altura de pirámide, la aplicación debe
+mostrar en pantalla una pirámide de caracteres donde la altura es la cantidad de renglones usado para construirla.
+Ejemplo:
+Altura 1: Altura 2: Altura 3:
+X X X
+X X X X X X
+X X X X X
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #4
+Realizar una aplicación que muestre en pantalla un menú con tres opciones:
+|------------- Bienvenido ------------|
+| 1. Docente |
+| 2. Estudiante |
+| 3. Salir |
+|-------------------------------------|
+--> Ingrese una opción: 1
+
+Al ingresar a alguna de las opciones, se debe ejecutar el
+código de la Ejercicio #1 o la Ejercicio #2 según sea el caso,
+al terminar de mostrar los datos la aplicación debe
+devolverse al menú inicial.
+Nota: La aplicación solo se detendrá al ingresar la opción 3.
+
+Ejercicio #5
+Realizar una aplicación que solicite al usuario ingresar un número y muestre en pantalla la sucesión Fibonacci desde el
+primer digito hasta el digito del número ingresado. Ejemplo:
+--> Ingrese un numero: 13
+--> La sucesión Fibonacci es: 0,1,1,2,3,5,8,13,21,34,55,89,144
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #6
+Realizar una aplicación que solicite al usuario ingresar un número n y muestre en pantalla el n-esimo término de la sucesión
+Fibonacci. Ejemplo:
+
+--> Ingresar la posicion del n-esimo Fibonacci: 10
+--> El n-esimo numero Fibonacci es: 34
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #7
+Realizar una aplicación en JAVA, que solicite al usuario ingresar tres números enteros y posteriormente muestre en
+pantalla el MCM de los tres números ingresados. Ejemplo:
+--> Ingrese un numero: 2
+--> Ingrese un numero: 3
+--> Ingrese un numero: 4
+--> El MCM es: 12
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #8
+Realizar una aplicación en JAVA que solicite ingresar al usuario un número máximo de 6 dígitos, posteriormente muestre
+en pantalla los dígitos separados con saltos de línea (El recorrido debe realizarlo de izquierda a Derecha).
+Ejemplo:
+--> Ingresar un numero: 654321
+------------------------------------
+-> El digito 01 es: 6
+-> El digito 02 es: 5
+-> El digito 03 es: 4
+-> El digito 04 es: 3
+-> El digito 05 es: 2
+-> El digito 06 es: 1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ejercicio #9
+Realizar una aplicación en JAVA que solicite ingresar al usuario un número entero y muestre en pantalla si el numero es
+primo o no es primo.
+Ejemplo 01:
+--> Ingresar un numero: 97
+------------------------------------
+--> Numero ingresado Es Primo.
+Ejemplo 02:
+--> Ingresar un numero: 87
+------------------------------------
+--> Numero ingresado NO Es Primo.
+
+Ejercicio #10
+Realizar una aplicación en JAVA, que solicite al usuario ingresar un numero entero denominado N, la aplicación debe
+calcular los NxN primeros números primos e imprimirlos en pantalla en una cuadricula de N filas con N columnas.
+Nota:
+- El máximo valor para N es 11
+- La cuadricula debe presentar el formato empleado en el ejemplo.
+Ejemplo:
+|-----------------------------------------------|
+--> Ingresar numero: 3
+--> Los numeros primos encontrados son:
+[002] [003] [005]
+[007] [011] [013]
+[017] [019] [023]
+
+|-----------------------------------------------|
+
+
+
+
+
+UNIVERSIDAD TECNOLOGICA DE PEREIRA
+Facultad de Ingenierías – Ingenieria de Sistemas y Computación
+Programación I – Profesor Omar Ivan Trejos Buriticá
+
+TALLER
+✔️✅1. Leer un número entero y mostrar todos los enteros comprendidos entre 1 y el número leído.
+✔️✅2. Leer un número entero y mostrar todos los pares comprendidos entre 1 y el número leído.
+✔️✅3. Leer un número entero y mostrar todos los divisores exactos del número comprendidos entre 1 y el número leído.
+✔️✅4. Leer dos números y mostrar todos los enteros comprendidos entre ellos.
+✔️✅5. Leer dos números y mostrar todos los números terminados en 4 comprendidos entre ellos.
+✔️✅6. Leer un número entero de tres dígitos y mostrar todos los enteros comprendidos entre 1 y cada uno de los dígitos.
+✔️✅7. Mostrar en pantalla todos los enteros comprendidos entre 1 y 100.
+✔️✅8. Mostrar en pantalla todos los pares comprendidos entre 20 y 200.
+✔️✅9. Mostrar en pantalla todos los números terminados en 6 comprendidos entre 25 y 205.
+✔️✅10. Leer un número entero y determinar a cuánto es igual la suma de todos los enteros comprendidos entre 1 y el número leído.
+✔️✅11. Leer un número entero de dos dígitos y mostrar en pantalla todos los enteros comprendidos entre un dígito y otro.
+✔️✅12. Leer un número entero de 3 dígitos y determinar si tiene el dígito 1.
+✔️✅13. Leer un entero y mostrar todos los múltiplos de 5 comprendidos entre 1 y el número leído.
+14. Mostrar en pantalla los primeros 20 múltiplos de 3.
+15. Escribir en pantalla el resultado de sumar los primeros 20 múltiplos de 3.
+16. Mostrar en pantalla el promedio entero de los n primeros múltiplos de 3 para un número n leído.
+17. Promediar los x primeros múltiplos de 2 y determinar si ese promedio es mayor que los y primeros múltiplos de 5 para valores de x y y leídos.
+18. Leer dos números entero y mostrar todos los múltiplos de 5 comprendidos entre el menor y el mayor.
+19. Leer un número entero y determinar si es primo.
+20. Leer un número entero y determinar cuántos dígitos tiene.
+21. Leer un número entero y determinar a cuánto es igual al sumar de sus dígitos.
+22. Leer un número entero y determinar cuántas veces tiene el dígito 1.
+23. Leer un número entero y determinar si la suma de sus dígitos es también un número primo.
+24. Leer un número entero y determinar a cuánto es igual al sumar de sus dígitos pares.
+25. Leer un número entero y determinar a cuánto es igual el promedio entero de sus dígitos.
+26. Leer un número entero y determinar cuál es el mayor de sus dígitos.
+27. Leer 2 números enteros y determinar cuál de los dos tiene mayor cantidad de dígitos.
+28. Leer 2 números enteros y determinar cuál de los dos tiene mayor cantidad de dígitos primos.
+29. Leer un número entero y determinar a cuánto es igual el primero de sus dígitos.
+30. Leer un número entero y mostrar todos sus componentes numéricos o sea aquellos para quienes el sea un múltiplo.
+31. Leer números hasta que digiten 0 y determinar a cuánto es igual el promedio de los números terminados en 5.
+32. Leer números hasta que digiten 0 y determinar a cuanto es igual el promedio entero de los número primos leídos.
+33. Si 32768 es el tope superior para los números entero cortos, determinar cuál es el número primo mas cercano por debajo de él.
+34. Generar los números del 1 al 10 utilizando un ciclo que vaya de 10 a 1.
+35. Leer dos números enteros y determinar a cuánto es igual el producto mutuo del primer dígito de cada uno.
+36. Mostrar en pantalla la tabla de multiplicar del número 5.
+37. Generar todas las tablas de multiplicar del 1 al 10.
+38. Leer un número entero y mostrar en pantalla su tabla de multiplicar.
+39. Se define la serie de Fibonacci como la serie que comienza con los dígitos 1 y 0 y va sumando progresivamente los dos últimos elementos de la serie, así: 0 1 1 2 3 5 8 13 21 34....... Utilizando el concepto de ciclo generar la serie de Fibonacci hasta llegar o sobrepasas el número 10000.
+40. Leer un número de dos dígitos y determinar si pertenece a la serie de Fibonacci.
+41. Determinar a cuánto es igual la suma de los elementos de la serie de Fibonacci entre 0 y 100.
+42. Determinar a cuánto es igual el promedio entero de los elementos de la serie de Fibonacci entre 0 y 1000.
+43. Determinar cuántos elementos de la serie de Fibonacci se encuentran entre 1000 y 2000.
+44. Leer un número y calcularle su factorial.
+45. Leer un número y calcularle el factorial a todos los enteros comprendidos entre 1 y el número leído.
+46. Leer un número entero y calcular el promedio de los factoriales de los enteros comprendidos entre 1 y el número leído.
+47. Leer un número entero y calcular la sumatoria de los factoriales de los números comprendidos entre 1 y el número leído.
+48. Utilizando recursión generar las siguientes parejas de enteros
+
+0 1
+1 1
+2 2
+3 2
+4 3
+5 3
+6 4
+7 4
+8 5
+9 5
+
+49. Utilizando ciclos anidados generar las siguientes ternas de números
+
+1 1 1
+2 1 2
+3 1 3
+4 2 1
+5 2 2
+6 2 3
+7 3 1
+8 3 2
+9 3 3
+
+50. Utilizando ciclos anidados generar las siguientes parejas de números
+
+0 1
+1 1
+2 1
+3 1
+4 2
+5 2
+6 2
+7 2
+
+
+
+
+
+
+UNIVERSIDAD TECNOLÓGICA DE PEREIRA
+Facultad de Ingenierías - Ingeniería de Sistemas y Computación
+Asignatura Programación I - Profesor Omar Ivan Trejos Buriticá
+
+1. Leer un número entero y determinar si es un número terminado en 4.
+2. Leer un número entero y determinar si tiene 3 dígitos.
+3. Leer un número entero y determinar si es negativo.
+4. Leer un número entero de dos dígitos y determinar a cuánto es igual la suma de sus dígitos.
+5. Leer un número entero de dos dígitos y determinar si ambos dígitos son pares.
+6. Leer un número entero de dos dígitos menor que 20 y determinar si es primo.
+7. Leer un número entero de dos dígitos y determinar si es primo y además si es negativo.
+8. Leer un número entero de dos dígitos y determinar si sus dos dígitos son primos.
+9. Leer un número entero de dos dígitos y determinar si un dígito es múltiplo del otro.
+10. Leer un número entero de dos dígitos y determinar si los dos dígitos son iguales.
+11. Leer dos números enteros y determinar cuál es el mayor.
+12. Leer dos números enteros de dos dígitos y determinar si tienen dígitos comunes.
+13. Leer dos números enteros de dos dígitos y determinar si la suma de los dos números origina un número par.
+14. Leer dos números enteros de dos dígitos y determinar a cuánto es igual la suma de todos los dígitos.
+15. Leer un número entero de tres dígitos y determinar a cuánto es igual la suma de sus dígitos.
+16. Leer un número entero de tres dígitos y determinar si al menos dos de sus tres dígitos son iguales.
+17. Leer un número entero de tres dígitos y determinar en qué posición está el mayor dígito.
+18. Leer un número entero de tres dígitos y determinar si algún dígito es múltiplo de los otros.
+19. Leer tres números enteros y determinar cuál es el mayor. Usar solamente dos variables.
+20. Leer tres números enteros y mostrarlos ascendentemente.
+La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
+21. Leer tres números enteros de dos dígitos cada uno y determinar en cuál de ellos se encuentra el mayor dígito.
+22. Leer un número entero de tres dígitos y determinar si el primer dígito es igual al último.
+23. Leer un número entero de tres dígitos y determinar cuántos dígitos primos tiene.
+24. Leer un número entero de tres dígitos y determinar cuántos dígitos pares tiene.
+25. Leer un número entero de tres dígitos y determinar si alguno de sus dígitos es igual a la suma de los otros dos.
+26. Leer un número entero de cuatro dígitos y determinar a cuanto es igual la suma de sus dígitos.
+27. Leer un número entero de cuatro dígitos y determinar cuántos dígitos pares tiene.
+28. Leer un número entero menor que 50 y positivo y determinar si es un número primo.
+29. Leer un número entero de cinco dígitos y determinar si es un número capicúo. Ej. 15651, 59895.
+30. Leer un número entero de cuatro dígitos y determinar si el segundo dígito es igual al penúltimo.
+31. Leer un número entero y determina si es igual a 10.
+32. Leer un número entero y determinar si es múltiplo de 7.
+33. Leer un número entero y determinar si termina en 7.
+34. Leer un número entero menor que mil y determinar cuántos dígitos tiene.
+35. Leer un número entero de dos dígitos, guardar cada dígito en una variable diferente y luego mostrarlas en pantalla.
+36. Leer un número entero de 4 dígitos y determinar si tiene más dígitos pares o impares.
+37. Leer dos números enteros y determinar cuál es múltiplo de cuál.
+38. Leer tres números enteros y determinar si el último dígito de los tres números es igual.
+39. Leer tres números enteros y determina si el penúltimo dígito de los tres números es igual.
+40. Leer dos números enteros y si la diferencia entre los dos es menor o igual a 10 entonces mostrar en pantalla todos los enteros comprendidos entre el menor y el mayor de los números leídos.
+41. Leer dos números enteros y determinar si la diferencia entre los dos es un número primo.
+42. Leer dos números enteros y determinar si la diferencia entre los dos es un número par.
+43. Leer dos números enteros y determinar si la diferencia entre los dos es un divisor exacto de alguno de los dos números.
+44. Leer un número entero de 4 dígitos y determinar si el primer dígito es múltiplo de alguno de los otros dígitos.
+45. Leer un número entero de 2 dígitos y, si es par, mostrar en pantalla la suma de sus dígitos, si es primo y menor que 10 mostrar en pantalla su último dígito y si es múltiplo de 5 y menor que 30 mostrar en pantalla el primer dígito.
+46. Leer un número entero de 2 dígitos y si terminar en 1 mostrar en pantalla su primer dígito, si termina en 2 mostrar en pantalla la suma de sus dígitos y si termina en 3 mostrar en pantalla el producto de sus dos dígitos.
+47. Leer dos números enteros y si la diferencia entre los dos números es par mostrar en pantalla la suma de los dígitos de los números, si dicha diferencia es un número primo menor que 10 entonces mostrar en pantalla el producto de los dos números y si la diferencia entre ellos terminar en 4 mostrar en pantalla todos los dígitos por separado.
+48. Leer un número entero y si es menor que 100 determinar si es primo.
+49. Leer un número entero y si es múltiplo de 4 determinar si su último dígito es primo.
+50. Leer un número entero y si es múltiplo de 4 mostrar en pantalla su mitad, si es múltiplo de 5 mostrar en pantalla su cuadrado y si es múltiplo e 6 mostrar en pantalla su primer dígito. Asumir que el número no es mayor que 100.
+
