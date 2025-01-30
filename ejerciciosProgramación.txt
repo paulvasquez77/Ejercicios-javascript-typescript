@@ -628,8 +628,8 @@ TALLER
 ✔️✅11. Leer un número entero de dos dígitos y mostrar en pantalla todos los enteros comprendidos entre un dígito y otro.
 ✔️✅12. Leer un número entero de 3 dígitos y determinar si tiene el dígito 1.
 ✔️✅13. Leer un entero y mostrar todos los múltiplos de 5 comprendidos entre 1 y el número leído.
-14. Mostrar en pantalla los primeros 20 múltiplos de 3.
-15. Escribir en pantalla el resultado de sumar los primeros 20 múltiplos de 3.
+✔️✅14. Mostrar en pantalla los primeros 20 múltiplos de 3.
+✔️✅15. Escribir en pantalla el resultado de sumar los primeros 20 múltiplos de 3.
 16. Mostrar en pantalla el promedio entero de los n primeros múltiplos de 3 para un número n leído.
 17. Promediar los x primeros múltiplos de 2 y determinar si ese promedio es mayor que los y primeros múltiplos de 5 para valores de x y y leídos.
 18. Leer dos números entero y mostrar todos los múltiplos de 5 comprendidos entre el menor y el mayor.
