@@ -632,9 +632,9 @@ TALLER
 ✔️✅15. Escribir en pantalla el resultado de sumar los primeros 20 múltiplos de 3.
 16. Mostrar en pantalla el promedio entero de los n primeros múltiplos de 3 para un número n leído.
 17. Promediar los x primeros múltiplos de 2 y determinar si ese promedio es mayor que los y primeros múltiplos de 5 para valores de x y y leídos.
-18. Leer dos números entero y mostrar todos los múltiplos de 5 comprendidos entre el menor y el mayor.
+✔️✅18. Leer dos números entero y mostrar todos los múltiplos de 5 comprendidos entre el menor y el mayor.
 19. Leer un número entero y determinar si es primo.
-20. Leer un número entero y determinar cuántos dígitos tiene.
+✔️✅20. Leer un número entero y determinar cuántos dígitos tiene.
 21. Leer un número entero y determinar a cuánto es igual al sumar de sus dígitos.
 22. Leer un número entero y determinar cuántas veces tiene el dígito 1.
 23. Leer un número entero y determinar si la suma de sus dígitos es también un número primo.
