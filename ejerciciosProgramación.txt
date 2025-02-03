@@ -637,7 +637,7 @@ TALLER
 ✔️✅20. Leer un número entero y determinar cuántos dígitos tiene.
 21. Leer un número entero y determinar a cuánto es igual al sumar de sus dígitos.
 ✔️✅22. Leer un número entero y determinar cuántas veces tiene el dígito 1.
-23. Leer un número entero y determinar si la suma de sus dígitos es también un número primo.
+✔️✅23. Leer un número entero y determinar si la suma de sus dígitos es también un número primo.
 24. Leer un número entero y determinar a cuánto es igual al sumar de sus dígitos pares.
 25. Leer un número entero y determinar a cuánto es igual el promedio entero de sus dígitos.
 26. Leer un número entero y determinar cuál es el mayor de sus dígitos.
