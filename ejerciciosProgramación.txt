@@ -641,7 +641,7 @@ TALLER
 24. Leer un número entero y determinar a cuánto es igual al sumar de sus dígitos pares.
 25. Leer un número entero y determinar a cuánto es igual el promedio entero de sus dígitos.
 26. Leer un número entero y determinar cuál es el mayor de sus dígitos.
-27. Leer 2 números enteros y determinar cuál de los dos tiene mayor cantidad de dígitos.
+✔️✅27. Leer 2 números enteros y determinar cuál de los dos tiene mayor cantidad de dígitos.
 28. Leer 2 números enteros y determinar cuál de los dos tiene mayor cantidad de dígitos primos.
 29. Leer un número entero y determinar a cuánto es igual el primero de sus dígitos.
 30. Leer un número entero y mostrar todos sus componentes numéricos o sea aquellos para quienes el sea un múltiplo.
