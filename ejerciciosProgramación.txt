@@ -710,7 +710,7 @@ Asignatura Programación I - Profesor Omar Ivan Trejos Buriticá
 ✔️✅1. Leer un número entero y determinar si es un número terminado en 4.
 ✔️✅2. Leer un número entero y determinar si tiene 3 dígitos.
 ✔️✅3. Leer un número entero y determinar si es negativo.
-4. Leer un número entero de dos dígitos y determinar a cuánto es igual la suma de sus dígitos.
+✔️✅4. Leer un número entero de dos dígitos y determinar a cuánto es igual la suma de sus dígitos.
 5. Leer un número entero de dos dígitos y determinar si ambos dígitos son pares.
 6. Leer un número entero de dos dígitos menor que 20 y determinar si es primo.
 7. Leer un número entero de dos dígitos y determinar si es primo y además si es negativo.
