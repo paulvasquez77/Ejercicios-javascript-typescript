@@ -6,4 +6,4 @@ function sumDigitos(num: number) {
     return `La suma de los digitos es ${suma}`
 }
 
-console.log(sumDigitos(34))
+console.log(sumDigitos(41))
