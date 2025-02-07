@@ -719,7 +719,7 @@ Asignatura Programación I - Profesor Omar Ivan Trejos Buriticá
 ✔️✅10. Leer un número entero de dos dígitos y determinar si los dos dígitos son iguales.
 ✔️✅11. Leer dos números enteros y determinar cuál es el mayor.
 12. Leer dos números enteros de dos dígitos y determinar si tienen dígitos comunes.
-13. Leer dos números enteros de dos dígitos y determinar si la suma de los dos números origina un número par.
+✔️✅13. Leer dos números enteros de dos dígitos y determinar si la suma de los dos números origina un número par.
 14. Leer dos números enteros de dos dígitos y determinar a cuánto es igual la suma de todos los dígitos.
 15. Leer un número entero de tres dígitos y determinar a cuánto es igual la suma de sus dígitos.
 16. Leer un número entero de tres dígitos y determinar si al menos dos de sus tres dígitos son iguales.
