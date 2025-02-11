@@ -731,7 +731,7 @@ La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
 21. Leer tres números enteros de dos dígitos cada uno y determinar en cuál de ellos se encuentra el mayor dígito.
 ✔️✅22. Leer un número entero de tres dígitos y determinar si el primer dígito es igual al último.
 23. Leer un número entero de tres dígitos y determinar cuántos dígitos primos tiene.
-24. Leer un número entero de tres dígitos y determinar cuántos dígitos pares tiene.
+✔️✅24. Leer un número entero de tres dígitos y determinar cuántos dígitos pares tiene.
 25. Leer un número entero de tres dígitos y determinar si alguno de sus dígitos es igual a la suma de los otros dos.
 26. Leer un número entero de cuatro dígitos y determinar a cuanto es igual la suma de sus dígitos.
 27. Leer un número entero de cuatro dígitos y determinar cuántos dígitos pares tiene.
