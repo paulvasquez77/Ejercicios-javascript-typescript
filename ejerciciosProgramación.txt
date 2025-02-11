@@ -733,7 +733,7 @@ La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
 23. Leer un número entero de tres dígitos y determinar cuántos dígitos primos tiene.
 ✔️✅24. Leer un número entero de tres dígitos y determinar cuántos dígitos pares tiene.
 25. Leer un número entero de tres dígitos y determinar si alguno de sus dígitos es igual a la suma de los otros dos.
-26. Leer un número entero de cuatro dígitos y determinar a cuanto es igual la suma de sus dígitos.
+✔️✅26. Leer un número entero de cuatro dígitos y determinar a cuanto es igual la suma de sus dígitos.
 27. Leer un número entero de cuatro dígitos y determinar cuántos dígitos pares tiene.
 28. Leer un número entero menor que 50 y positivo y determinar si es un número primo.
 29. Leer un número entero de cinco dígitos y determinar si es un número capicúo. Ej. 15651, 59895.
