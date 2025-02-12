@@ -741,7 +741,7 @@ La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
 31. Leer un número entero y determina si es igual a 10.
 32. Leer un número entero y determinar si es múltiplo de 7.
 33. Leer un número entero y determinar si termina en 7.
-34. Leer un número entero menor que mil y determinar cuántos dígitos tiene.
+✔️✅34. Leer un número entero menor que mil y determinar cuántos dígitos tiene.
 35. Leer un número entero de dos dígitos, guardar cada dígito en una variable diferente y luego mostrarlas en pantalla.
 36. Leer un número entero de 4 dígitos y determinar si tiene más dígitos pares o impares.
 37. Leer dos números enteros y determinar cuál es múltiplo de cuál.
