@@ -6,7 +6,7 @@ function conteoParesImp(num: number) {
     }
         const newNums = num.toString().split("").map(Number)
         console.log(newNums)
-        let pares = 0
+        let pares = 0   
         let impares = 0
 
         for (const newNum of newNums) {
@@ -20,4 +20,4 @@ function conteoParesImp(num: number) {
     return `El numero ingresado es ${num} y tiene ${pares} digitos pares y ${impares} digitos impares`
 }
 
-console.log(conteoParesImp(3453))
+console.log(conteoParesImp(2463))
