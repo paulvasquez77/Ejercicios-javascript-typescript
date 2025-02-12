@@ -743,7 +743,7 @@ La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
 33. Leer un número entero y determinar si termina en 7.
 ✔️✅34. Leer un número entero menor que mil y determinar cuántos dígitos tiene.
 ✔️✅35. Leer un número entero de dos dígitos, guardar cada dígito en una variable diferente y luego mostrarlas en pantalla.
-36. Leer un número entero de 4 dígitos y determinar si tiene más dígitos pares o impares.
+✔️✅36. Leer un número entero de 4 dígitos y determinar si tiene más dígitos pares o impares.
 37. Leer dos números enteros y determinar cuál es múltiplo de cuál.
 38. Leer tres números enteros y determinar si el último dígito de los tres números es igual.
 39. Leer tres números enteros y determina si el penúltimo dígito de los tres números es igual.
