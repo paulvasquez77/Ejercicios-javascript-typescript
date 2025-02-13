@@ -650,7 +650,7 @@ TALLER
 33. Si 32768 es el tope superior para los números entero cortos, determinar cuál es el número primo mas cercano por debajo de él.
 34. Generar los números del 1 al 10 utilizando un ciclo que vaya de 10 a 1.
 35. Leer dos números enteros y determinar a cuánto es igual el producto mutuo del primer dígito de cada uno.
-36. Mostrar en pantalla la tabla de multiplicar del número 5.
+✔️✅36. Mostrar en pantalla la tabla de multiplicar del número 5.
 37. Generar todas las tablas de multiplicar del 1 al 10.
 ✔️✅38. Leer un número entero y mostrar en pantalla su tabla de multiplicar.
 39. Se define la serie de Fibonacci como la serie que comienza con los dígitos 1 y 0 y va sumando progresivamente los dos últimos elementos de la serie, así: 0 1 1 2 3 5 8 13 21 34....... Utilizando el concepto de ciclo generar la serie de Fibonacci hasta llegar o sobrepasas el número 10000.
