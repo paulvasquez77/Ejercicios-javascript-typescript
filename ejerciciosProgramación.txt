@@ -745,7 +745,7 @@ La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
 ✔️✅35. Leer un número entero de dos dígitos, guardar cada dígito en una variable diferente y luego mostrarlas en pantalla.
 ✔️✅36. Leer un número entero de 4 dígitos y determinar si tiene más dígitos pares o impares.
 37. Leer dos números enteros y determinar cuál es múltiplo de cuál.
-38. Leer tres números enteros y determinar si el último dígito de los tres números es igual.
+✔️✅38. Leer tres números enteros y determinar si el último dígito de los tres números es igual.
 39. Leer tres números enteros y determina si el penúltimo dígito de los tres números es igual.
 40. Leer dos números enteros y si la diferencia entre los dos es menor o igual a 10 entonces mostrar en pantalla todos los enteros comprendidos entre el menor y el mayor de los números leídos.
 41. Leer dos números enteros y determinar si la diferencia entre los dos es un número primo.
@@ -759,3 +759,8 @@ La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 139
 49. Leer un número entero y si es múltiplo de 4 determinar si su último dígito es primo.
 50. Leer un número entero y si es múltiplo de 4 mostrar en pantalla su mitad, si es múltiplo de 5 mostrar en pantalla su cuadrado y si es múltiplo e 6 mostrar en pantalla su primer dígito. Asumir que el número no es mayor que 100.
 
+
+
+Muy buena experiencia en la consulta. El Doctor fue atento, claro en sus explicaciones y resolvió todas las dudas que tenia. El tiempo de espera fue minimo y el servicio eficiente. Totalmente recomendado.
+
+Muy buena experiencia en la consulta. El Doctor fue atento y muy paciente, claro en sus explicaciones y resolvió todas las dudas que tenia. El tiempo de espera fue minimo y el servicio eficiente. 
